@@ -11,7 +11,7 @@ This Visual Studio extension allows you to dynamically adjust the zoom level usi
 * Visual Studio 2017
 * Visual Studio 2019
 * Visual Studio 2022
-* Visual Studio 2026... just add configuration in csproj and build.bat script
+* Visual Studio 2026... just add configuration in csproj and build.bat script 
 ## Compilation & Build
 
 To compile the extension for each specific version of Visual Studio, open the **Developer Command Prompt for VS 2022** and run the following commands sequentially:
