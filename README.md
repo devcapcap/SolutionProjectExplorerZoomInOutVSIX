@@ -23,7 +23,8 @@ msbuild /t:Clean,Restore,Build /p:VsTargetVersion=VS2017 /p:Configuration=Releas
 ```
 To compile the extension for each specific version of Visual Studio in Visual Studio IDE : setup the configuration like above on UI
 ##### ** The solution was developed using Visual Studio Professional/Community 2022, with .NET 10 support taken into account, because I was too lazy to install Visual Studio 2026 (see the contents of the .csproj file).
-For the multi-configuration setup, the idea comes from this website : https://cezarypiatek.github.io/post/migrate-vsix-to-vs2022/
+##### For the multi-configuration setup, the idea comes from this website : 
+* https://cezarypiatek.github.io/post/migrate-vsix-to-vs2022/
 
 
 ### Demonstration
